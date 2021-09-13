@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 🤝 I’m looking for help with **learn more language**
+- 🤝 I’m looking for help for **learning more languages**
 
 - 👨‍💻 All of my projects are available at [https://github.com/irisrenauld](https://github.com/irisrenauld)
 
