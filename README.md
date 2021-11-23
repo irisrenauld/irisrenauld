@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Iris</h1>
 <h3 align="center">A passionate frontend developer from Belgium</h3>
 
-- 🔭 I’m currently working on **the creation of a forum**
+- 🔭 I’m currently working on **the creation of a site e-commerce**
 
-- 🌱 I’m currently learning **php**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **any project**
 
